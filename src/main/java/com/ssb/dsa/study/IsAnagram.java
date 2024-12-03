@@ -2,6 +2,8 @@ package com.ssb.dsa.study;
 
 /**
  * @author Sachin 
+ * o(n)
+ * s: o(1)
  * https://neetcode.io/problems/is-anagram
  */
 public class IsAnagram {
