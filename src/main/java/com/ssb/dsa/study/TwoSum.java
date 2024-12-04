@@ -3,6 +3,10 @@ package com.ssb.dsa.study;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * @author Sachin
+ * https://neetcode.io/problems/two-integer-sum
+ */
 public class TwoSum {
 
     public int[] twoSum(int[] nums, int target) {
