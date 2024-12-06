@@ -1,4 +1,4 @@
-package com.ssb.dsa.study;
+package com.ssb.dsa.study.arrays;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,11 +1,11 @@
-package com.ssb.dsa.study.test;
+package com.ssb.dsa.study.test.array;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import com.ssb.dsa.study.DuplicateInteger;
+import com.ssb.dsa.study.arrays.DuplicateInteger;
 
 class DuplicateIntegerTest {
 

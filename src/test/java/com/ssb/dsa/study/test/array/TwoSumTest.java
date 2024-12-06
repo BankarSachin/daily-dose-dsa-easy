@@ -1,10 +1,10 @@
-package com.ssb.dsa.study.test;
+package com.ssb.dsa.study.test.array;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 
 import org.junit.jupiter.api.Test;
 
-import com.ssb.dsa.study.TwoSum;
+import com.ssb.dsa.study.arrays.TwoSum;
 
 class TwoSumTest {
 

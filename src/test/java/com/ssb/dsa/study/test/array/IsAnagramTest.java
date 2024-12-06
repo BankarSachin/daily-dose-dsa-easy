@@ -1,4 +1,4 @@
-package com.ssb.dsa.study.test;
+package com.ssb.dsa.study.test.array;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.TestInstance;
 import org.junit.jupiter.api.TestInstance.Lifecycle;
 
-import com.ssb.dsa.study.IsAnagram;
+import com.ssb.dsa.study.arrays.IsAnagram;
 
 @TestInstance(Lifecycle.PER_CLASS)
 class IsAnagramTest {
