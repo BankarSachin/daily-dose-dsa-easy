@@ -11,6 +11,10 @@ public class BuyAndSellCrypto {
 		int buyPointer = 0;
 		int sellPointer = 1;
 		
+		if (prices == null || prices.length < 2) {
+		    return 0;
+		}
+		
 		while(sellPointer < prices.length) {
 			if(prices[buyPointer]>=prices[sellPointer]) { //No profit
 				buyPointer = sellPointer;
