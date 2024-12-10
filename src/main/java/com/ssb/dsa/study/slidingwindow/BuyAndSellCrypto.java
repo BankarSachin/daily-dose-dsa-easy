@@ -1,5 +1,9 @@
 package com.ssb.dsa.study.slidingwindow;
 
+/**
+ * @author Sachin
+ * https://neetcode.io/problems/buy-and-sell-crypto
+ */
 public class BuyAndSellCrypto {
 
 	public int maxProfit(int[] prices) {
